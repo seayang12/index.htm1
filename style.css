@@ -1,0 +1,33 @@
+.container{
+    width: 800px;
+}
+.site-content {
+    width: 80%;
+    height: 200px;
+    background-color: skyblue;
+    float: left;
+    }
+    .site-img {
+    width: 20%;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+    }
+    .site-img {
+        width: 20%;
+        height: 200px;
+        background-color: yellow;
+        float: left;
+        }
+        .right-img {
+        width: 100%;
+        height: 100%;
+        }
+        .profile-img {
+            width: 50px;
+            height: 65px;
+            float: left;
+            }
+            .namedate{
+                float:left ;
+            }
